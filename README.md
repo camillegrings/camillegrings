@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact: **Always trying to inspire new girls to join IT**
 
+- 📔 Check [here](https://camillegrings.github.io/) my online CV.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/camillegrings" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="camillegrings" height="30" width="40" /></a>
