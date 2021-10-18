@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Camille</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working at [CWI Software](https://cwi.com.br/) as a web/mobile developer.
+- 🔭 I’m currently working at [Dell Technologies](https://www.delltechnologies.com/pt-br/index.htm).
 
-- 🌱 I’m currently learning **Flutter, Swift and Android**.
+- 🌱 I’m currently learning **A/B Testing**.
 
 - 📝 I have articles on [Medium](https://medium.com/@camillegrings)
 
