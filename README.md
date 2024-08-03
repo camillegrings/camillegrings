@@ -31,3 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camillegrings&show_icons=true&locale=en&layout=compact" alt="camillegrings" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camillegrings&show_icons=true&locale=en" alt="camillegrings" /></p>
+
+<h3 align="left">Certification:</h3>
+<a href="https://www.credly.com/badges/8e38e325-4d09-4a87-b125-0d361a4b3942/public_url" target="_blank"> <img src="https://github.com/camillegrings/camillegrings/blob/main/github-foundations.png" alt="css3" width="300" height="300"/> </a>
